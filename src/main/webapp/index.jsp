@@ -11,7 +11,7 @@
     <form action="HelloServlet" method="post">
         <div>
             Nombre: <input type="text" name="yourName" size="20">
-            Prueba: <input type="text" name="prueba" size="20">
+           
         </div>
           <input type="submit" value="index" name="Submit" />
     </form>
