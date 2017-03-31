@@ -11,7 +11,7 @@
     <form action="HelloServlet" method="post">
         <div>
             Nombre: <input type="text" name="yourName" size="20">
-            Prueba: <input type="text" name="prueba" size="20">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Check.svg" height="42" width="42">
         </div>
           <input type="submit" value="index" name="Submit" />
     </form>
