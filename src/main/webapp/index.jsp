@@ -12,6 +12,11 @@
         <div>
             Nombre: <input type="text" name="yourName" size="20">
             Prueba: <input type="text" name="prueba" size="20">
+            Prueba1: <input type="text" name="prueba1" size="20">
+            Prueba2: <input type="text" name="prueba2" size="20">
+            Prueba3: <input type="text" name="prueba3" size="20">
+            
+            
         </div>
           <input type="submit" value="index" name="Submit" />
     </form>
