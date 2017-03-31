@@ -14,6 +14,7 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Check.svg" height="42" width="42">
                 Apellido: <input type="text" name="apellido" size="20">
                 Ciudad: <input type="text" name="ciudad" size="20">
+                Edad: <input type="text" name="edad" size="20">
                 
             </div>
             <input type="submit" value="index" name="Submit" />
